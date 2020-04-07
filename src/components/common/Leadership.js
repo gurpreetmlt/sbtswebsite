@@ -29,7 +29,7 @@ class Leadership extends Component {
                                         <h2 className="main-title">Evelyn A. Lewis</h2>
                                         <div className="upper-title">Chief Executive Officer</div>
                                     </div>
-                                    <p className="aboutP">Evelyn Lewis is the CEO and Founder of SBTS Group. A career entrepreneur, Evelyn consulted for government organizations for over 20 years building technology solutions for global health crises and identification management. </p>
+                                    <p className="aboutP">Evelyn Lewis is the CEO and Founder of SBTS Group. As a career entrepreneur, Evelyn consulted for government organizations for over 20 years building technology solutions for global health crises and identification management. </p>
                                     <a href="#" class="contact-us white-shdw-button">Leadership team <i class="icon flaticon-next"></i></a>
                                 </div>
                             </div>

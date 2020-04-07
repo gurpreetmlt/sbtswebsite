@@ -25,7 +25,7 @@ class WhatWeDo extends Component {
                                     <div className="upper-title">Our Services</div>
                                     <h2 className="main-title">Enterprise Solutions for a better tomorrow</h2>
                                 </div>
-                                <p>As a full-service international ICT company whose clients have varied complex needs, SBTS Group champions the position of providing expertise in a range of current and emerging technologies. It is out purpose to simplify your technology so that you can focus on running your organization, and we know the best way to accomplish that is to listen to your IT challenges and create a plan that is customized for what you do and how you do it.</p>
+                                <p>As a full-service international ICT company whose clients have varied complex needs, SBTS Group champions the position of providing expertise in a range of current and emerging technologies. It is our purpose to simplify your technology so that you can focus on running your organization, and we know the best way to accomplish that is to listen to your IT challenges and create a plan that is customized for what you do and how you do it.</p>
                                 {this.props.showReadMoreBtn && <a href="#" class="contact-us white-shdw-button">Read More <i class="icon flaticon-next"></i></a>}
                             </div>
                         </div>
