@@ -18,7 +18,7 @@ class MainHeader extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-8 col-md-4">
-                        <div className="logo"><a onClick={()=>this.props.history.push('/')}><img style={{width:'150px'}} src={SbtsLogo} alt="" /></a></div>
+                        <div className="logo"><a onClick={()=>this.props.history.push('/')}><img style={{width:'300px'}} src={SbtsLogo} alt="" /></a></div>
                         </div>
                         <div className="col-md-8">
                         <Navbar collapseOnSelect bg="" variant="light" expand="lg">
