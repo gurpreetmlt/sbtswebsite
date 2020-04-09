@@ -29,7 +29,7 @@ class StaticMap extends Component {
 
     render() {
         return (
-            <Map
+            <Map className='mapView'
                 google={this.props.google}
                 zoom={2}
                 style={mapStyles}
