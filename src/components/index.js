@@ -13,6 +13,7 @@ import Products from './common/Products';
 import MainFooter from './common/MainFooter';
 import Leadership from './common/Leadership';
 import StaticMap from './common/StaticMap';
+import Ourclients from './common/ourclients';
 
 class AppIndex extends Component {
   constructor(props) {
@@ -29,9 +30,9 @@ class AppIndex extends Component {
             <Aboutus />
             <Products />
             <WhatWeDo showReadMoreBtn={true} />
-            {/* <CompletedProjects /> */}
             <Leadership />
             <StaticMap />
+            <Ourclients />
             <DoProjects />
             <MainFooter />
         </div>

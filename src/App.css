@@ -39,6 +39,16 @@
 
 /*custom Style */
 
+.ourClient.our-feature-app .feature-offer-box.support-feature, .ourClient.our-feature-app .feature-offer-box.price-feature {
+  height: 100px !important;
+  min-height: 100px !important;
+  max-height: 100px !important;
+}
+
+.ourClient.our-feature-app.p0.mt-200 {
+  margin: 40px 0;
+}
+
 a{
   cursor: pointer;
 }

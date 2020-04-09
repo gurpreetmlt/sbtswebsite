@@ -12,6 +12,8 @@ import financial from './components/products/financial';
 import training from './components/products/training';
 import callCenter from './components/products/callCenter';
 import privacyPolicies from './components/privacyPolicies';
+import portfolio from './components/portfolio';
+
 
 function App() {
   return (
@@ -28,6 +30,7 @@ function App() {
         <Route path="/training" component={training} />
         <Route path="/callcenter" component={callCenter} />
         <Route path="/privacy" component={privacyPolicies} />
+        <Route path="/portfolio" component={portfolio} />
      </Switch>
     </div>
   </Router>
