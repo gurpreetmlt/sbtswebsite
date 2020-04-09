@@ -4,6 +4,7 @@ import { withRouter } from 'react-router-dom';
 import $ from 'jquery';
 import HeaderMain from './common/headerMain';
 import PortfolioSection from './portfolioSection';
+import MainFooter from './common/MainFooter';
 
 class AppIndex extends Component {
   constructor(props) {
@@ -16,7 +17,9 @@ class AppIndex extends Component {
   render() {
     return (
       <div>
+        <HeaderMain />
         <PortfolioSection />
+        <MainFooter />
       </div>
     );
 

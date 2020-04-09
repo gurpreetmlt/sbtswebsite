@@ -40,6 +40,7 @@ class Footer extends Component {
                                         <li><a onClick={()=>this.props.history.push('/services')}>Services</a></li>
                                         <li><a onClick={()=>this.props.history.push('/careers')}>Careers</a></li>
                                         <li><a onClick={()=>this.props.history.push('/media')}>Media Kit</a></li>
+                                        <li><a onClick={()=>this.props.history.push('/portfolio')}>Portfolio</a></li>
                                     </ul>
                                 </div>
                                 <div className="col-lg-3 col-lg-2 col-sm-6 col-12 footer-information">

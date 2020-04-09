@@ -49,6 +49,33 @@
   margin: 40px 0;
 }
 
+.MapVew {
+  height: 550px;
+  overflow: hidden;
+}
+
+.MapVew div .mapView {
+  height: 500px !important;
+}
+
+.portFolioSection {
+  display: inline-block;
+  margin: 160px 0 0 0;
+}
+
+#myBtnContainer {
+  margin: 0 auto;
+}
+
+.btn.active {
+  background-color: #357694 !important;
+}
+
+.btn:hover {
+  background-color: #357694 !important;
+  color: #fff !important;
+}
+
 a{
   cursor: pointer;
 }
@@ -264,11 +291,6 @@ margin: 0 0 20px 0;
   font-size: 25px;
 }
 
-.mapView {
-  position: absolute;
-  width: 100%;
-  /* height: 100%; */
-}
 
 .service-boxes {
   flex: 0 0 33.333333%;
@@ -440,8 +462,10 @@ margin: 0 0 20px 0;
   font-weight: normal;
   color:#57667E;
   font-size: 17px;
-  position: relative;
-  top:0 !important;
+  /* position: relative; */
+  /* top:0 !important; */
+  padding: 0px !important;;
+  background: #fff !important;
  }
  .font-lato {font-family: 'Lato', sans-serif; font-weight: normal;}
  .font-k2d {font-family: 'K2D', sans-serif !important;}

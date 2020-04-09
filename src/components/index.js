@@ -31,7 +31,7 @@ class AppIndex extends Component {
             <Products />
             <WhatWeDo showReadMoreBtn={true} />
             <Leadership />
-            <StaticMap />
+            <div className="MapVew"><StaticMap /></div>
             <Ourclients />
             <DoProjects />
             <MainFooter />
