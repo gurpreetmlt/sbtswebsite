@@ -52,69 +52,345 @@ class PortfolioSection extends Component {
                                    
                                     <div className="column nature">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/mountains.jpg")} alt="Mountains" style={{ width: '100%' }} />
-                                            <h4>Mountains</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/ABN-International-Group.jpg")} alt="Mountains" style={{ width: '100%' }} />
+                                            <h5>ABN International Group</h5>
+                                           
                                         </div>
                                     </div>
                                     <div className="column nature">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/lights.jpg")} alt="Lights" style={{ width: '100%' }} />
-                                            <h4>Lights</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/ABN-International-Group2.jpg")} alt="Lights" style={{ width: '100%' }} />
+                                            <h5>ABN International Group</h5>
+                                          
                                         </div>
                                     </div>
                                     <div className="column nature">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/nature.jpg")} alt="Nature" style={{ width: '100%' }} />
-                                            <h4>Forest</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/abnlinks.jpg")} alt="Nature" style={{ width: '100%' }} />
+                                            <h5>Abnlinks</h5>
+                                           
                                         </div>
                                     </div>
 
                                     <div className="column cars">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/cars1.jpg")} alt="Car" style={{ width: '100%' }} />
-                                            <h4>Retro</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/animation.jpg")} alt="Car" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                            
                                         </div>
                                     </div>
                                     <div className="column cars">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/cars2.jpg")} alt="Car" style={{ width: '100%' }} />
-                                            <h4>Fast</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/Costom-Printers.jpg")} alt="Car" style={{ width: '100%' }} />
+                                            <h5>Costom Printers</h5>
+                                            
                                         </div>
                                     </div>
                                     <div className="column cars">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/cars3.jpg")} alt="Car" style={{ width: '100%' }} />
-                                            <h4>Classic</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/First-Line-Air.jpg")} alt="Car" style={{ width: '100%' }} />
+                                            <h5>First Line Air</h5>
+                                            
                                         </div>
                                     </div>
 
                                     <div className="column people">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/people1.jpg")} alt="People" style={{ width: '100%' }} />
-                                            <h4>Girl</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/First-Line-Airways.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>First Line Airways</h5>
+                                            
                                         </div>
                                     </div>
                                     <div className="column people">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/people2.jpg")} alt="People" style={{ width: '100%' }} />
-                                            <h4>Man</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/First-Line-Airways2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>First Line Airways</h5>
+                                            
                                         </div>
                                     </div>
                                     <div className="column people">
                                         <div className="content">
-                                            <img src={require("../assets/images/w3images/people3.jpg")} alt="People" style={{ width: '100%' }} />
-                                            <h4>Woman</h4>
-                                            <p>Lorem ipsum dolor..</p>
+                                            <img src={require("../assets/images/portfolio/ICEL2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>ICEL</h5>
+                                            
                                         </div>
                                     </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Integnets.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Integnets</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/integnets2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>integnets</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Izora.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Izora</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Kambi-Information-Technology,-Inc..jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Kambi Information Technology, Inc.</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Kambi-Travels.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Kambi Travels</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/MGN-Health-Services.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>MGN Health Services</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/MGN-Health-Services2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>MGN Health Services</h5>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Nollywood-Superstars.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Nollywood Superstars</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/PAWA-Complex-International-Inc.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>PAWA Complex International Inc</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/PCL-Internatinal.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>PCL Internatinal</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Prime-Time-Printing.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Prime Time Printing</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTSGroupInc.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group, Inc.</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group3.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group4.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group5.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group6.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group7.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/SBTS-Group8.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>SBTS Group</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Sierra-Leone-Homecoming-2003.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Sierra Leone Homecoming 2003</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Sierra-Leone-Home-coming-Summit.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Sierra Leone Home coming Summit</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Slick-Willie's.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Slick Willie's</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Sonako-Homes.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Sonako Homes</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Stephanie-Okereke.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Stephanie Okereke</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Sulaiman-Banja-Tejan-Sie.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Sulaiman Banja Tejan-Sie</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                        
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/The-African-Yellow-Pages.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>The African Yellow Pages</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                          
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/The-Sigma-Club---Fourah-Bay-Collage.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>The Sigma Club - Fourah Bay Collage</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/The-Sigma-Club---Fourah-Bay-Collage2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>The Sigma Club - Fourah Bay Collage</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Trainingsol.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Trainingsol</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/Ultima-Care.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Ultima Care</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/West-African-Airlines.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>West African Airlines</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/West-African-Express.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>West African Express</h5>
+                                           
+                                        </div>
+                                    </div>
+
+                                    <div className="column people">
+                                        <div className="content">
+                                            <img src={require("../assets/images/portfolio/West-African-Express2.jpg")} alt="People" style={{ width: '100%' }} />
+                                            <h5>Costom Printers</h5>
+                                           
+                                        </div>
+                                    </div>
+
+
+
+
+                                    
 
                                 </div>
 
