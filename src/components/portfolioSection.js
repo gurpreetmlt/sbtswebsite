@@ -38,9 +38,12 @@ class PortfolioSection extends Component {
                     <div class="row service-box-row">
                     <div id="myBtnContainer">
                                         <button className="btn active" onClick={() => filterSelection('all')}> Show all</button>
-                                        <button className="btn" onClick={() => filterSelection('nature')}> Nature</button>
-                                        <button className="btn" onClick={() => filterSelection('cars')}> Cars</button>
-                                        <button className="btn" onClick={() => filterSelection('people')}> People</button>
+                                        <button className="btn" onClick={() => filterSelection('nature')}> Website</button>
+                                        <button className="btn" onClick={() => filterSelection('cars')}> Corporate Identity</button>
+                                        <button className="btn" onClick={() => filterSelection('people')}> Postcard</button>
+                                        <button className="btn" onClick={() => filterSelection('people')}> Multimedia Presentation</button>
+                                        <button className="btn" onClick={() => filterSelection('people')}> Animation</button>
+
                                     </div>
 
                         </div>
